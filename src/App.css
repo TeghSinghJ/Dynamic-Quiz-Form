@@ -1,0 +1,42 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.container {
+  background-color: white;
+  padding: 30px;
+ 
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.floating-bar {
+  background-color: white;
+  height : 100px;
+  width:40px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+
+
+.options {
+  margin-top: 20px;
+}
+
+.option-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.option-item input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+}
+
+
+.container { 
+  border-left: 0.25rem solid green;  
+  margin: 5% 6% 0 10%; 
+} 
+
