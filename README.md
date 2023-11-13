@@ -1,3 +1,8 @@
+# Output
+![image](https://github.com/TeghSinghJ/Dynamic-Quiz-Form/assets/81065036/0d815282-56fe-43ab-ae52-e467e6f22719)
+![image](https://github.com/TeghSinghJ/Dynamic-Quiz-Form/assets/81065036/c4eb69a8-9828-4459-97c3-5fd08760d0bc)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
